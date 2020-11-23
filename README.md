@@ -21,7 +21,7 @@ A escalar-calc e uma calculadora de orcamentos e tem como objetivo calcular os c
 ## Como testar
 - Windows:
 1. Faca o clone do repositorio;
-2. Execute o comando npm install no terminal dentro da pasta fronend;
+2. Execute o comando npm install no terminal dentro da pasta frontend;
 3. Execute o comando npm run dev;
 4. Acesse o endereco http://localhost:8080
 
