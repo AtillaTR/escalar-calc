@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    
+}
+*.placeholder{
+    opacity: 0.9;
+}
+
+
+
+#general {
+    width:500px;
+    margin:0 auto;
+    background:#ddd;
+}
+
+#secundary{
+    width:500px;
+    margin:0 auto;
+    background:#ddd;
+}
+#terciary{
+    width:500px;
+    margin:0 auto;
+    background:#ddd;
+}
+#fourty{
+    width:500px;
+    margin:0 auto;
+    background:#ddd;
+}
+
