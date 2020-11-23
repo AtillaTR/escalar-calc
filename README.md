@@ -18,7 +18,12 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 ## Projeto
 A escalar-calc e uma calculadora de orcamentos e tem como objetivo calcular os custos de instalacao e manuntencao de servicos oferecidos.
 
-##Como testar
+## Como testar
+- Windows:
+1. Faca o clone do repositorio;
+2. Execute o comando npm install no terminal dentro da pasta fronend;
+3. Execute o comando npm run dev;
+4. Acesse o endereco http://localhost:8080
 
 ---
 
